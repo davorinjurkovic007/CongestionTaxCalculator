@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CongestionTaxCalculator.Models\CongestionTaxCalculator.Models.csproj" />
+    <ProjectReference Include="..\CongestionTaxCalculator.Services\CongestionTaxCalculator.Services.csproj" />
+  </ItemGroup>
+
+</Project>

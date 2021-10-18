@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CongestionTaxCalculator.API</name>
+    </assembly>
+    <members>
+        <member name="M:CongestionTaxCalculator.API.Controllers.CongestionTaxCalculatorController.CalculateTax(CongestionTaxCalculator.Data.Models.InputDataDto)">
+            <summary>
+            Calculate the total toll fee for one day
+            </summary>
+            <param name="inputDataDto"></param>
+            <returns>the total congestion tax for that day</returns>
+        </member>
+    </members>
+</doc>
